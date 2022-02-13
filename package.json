@@ -10,21 +10,21 @@
   },
   "scripts": {
     "start": "node index.js --public",
-    "test": "node test.js"
+    test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
+    "url": "git+https://github.com/alenspetra/Wizard-Ser.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajmal-Achu",
+  "author": "àlènspétrå",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
+    "url": "https://github.com/alenspetra/Wizard-Ser/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
+  "homepage": "https://github.com/alenspetra/Wizard-Ser",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
